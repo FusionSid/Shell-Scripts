@@ -2,7 +2,7 @@
 
 These are scripts I can use in terminal to automate tasks.
 
-## Quick Commit (qcommit.sh)[https://github.com/FusionSid/Bash-Scripts/blob/main/ip.sh]
+## Quick Commit [qcommit.sh](https://github.com/FusionSid/Bash-Scripts/blob/main/qcommit.sh)
 Instead of doing this everytime:
 ```
 git pull
@@ -16,7 +16,7 @@ I can just put the qcommit.sh file in my project file and then all I have to do 
 bash qcommit.sh Edit
 ```
 
-## Whats my ip? (ip.sh)
+## Whats my ip? [ip.sh](https://github.com/FusionSid/Bash-Scripts/blob/main/ip.sh)
 Instead of having to memorise my ip address or have to google it / ifconfig it everytime I can just use:
 ```
 bash ip.sh
