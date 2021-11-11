@@ -2,7 +2,7 @@
 
 These are scripts I can use in terminal to automate tasks.
 
-## Quick Commit (qcommit.sh)
+## Quick Commit [qcommit.sh][https://github.com/FusionSid/Bash-Scripts/blob/main/ip.sh]
 Instead of doing this everytime:
 ```
 git pull
