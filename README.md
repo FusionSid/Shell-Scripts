@@ -22,3 +22,12 @@ Instead of having to memorise my ip address or have to google it / ifconfig it e
 bash ip.sh
 ```
 in terminal to quickly get my ip address
+
+But i found out how to make this EVEN FASTER
+
+by adding
+```
+alias ip="bash ip.sh"
+```
+in my .zshrc file 
+i dont have to type `bash ip.sh` i just can type `ip` in terminal and BOOM i get my ip
