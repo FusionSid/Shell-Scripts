@@ -1,4 +1,5 @@
-#! /bin/bash/
+#! /bin/bash
+set -e
 
 git pull
 git add .
